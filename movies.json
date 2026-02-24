@@ -2,23 +2,23 @@
   "categories": [
     {
       "name": "افلام عربى",
-      "url": "https://asd.pics/category/arabic-movies-10"
+      "url": "https://ak.sv/movies?section=29"
     },
     {
       "name": "افلام اجنبي",
-      "url": "https://asd.pics/category/foreign-movies-10/"
+      "url": "https://ak.sv/movies?section=30"
     },
     {
       "name": "افلام هندى",
-      "url": "https://asd.pics/category/indian-movies/"
+      "url": "https://ak.sv/movies?section=31"
     },
     {
       "name": "افلام تركى",
-      "url": "https://asd.pics/category/turkish-movies/"
+      "url": "https://ak.sv/movies?section=32"
     },
     {
       "name": "افلام كرتون",
-      "url": "https://asd.pics/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%86%d9%8a%d9%85%d9%8a%d8%b4%d9%86/"
+      "url": "https://ak.sv/movies?section=33"
     }
   ]
 }
