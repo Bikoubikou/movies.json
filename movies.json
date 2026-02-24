@@ -2,27 +2,26 @@
   "categories": [
     {
       "name": "افلام عربى",
-      "url": "https://mycima.fan/category/افلام-عربي/"
+      "url": "https://ak.sv/movies?section=29"
     },
     {
       "name": "افلام اجنبي",
-      "url": "https://wecima.watch/category/%d8%a3%d9%81%d9%84%d8%a7%d9%85/10-movies-english-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d8%ac%d9%86%d8%a8%d9%8a/"
-    },
+      "url": "https://ak.sv/movies?section=30"
     {
       "name": "افلام هندى",
-      "url": "https://wecima.watch/category/%d8%a3%d9%81%d9%84%d8%a7%d9%85/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%87%d9%86%d8%af%d9%8a-indian-movies/"
+      "url": "https://ak.sv/movies?section=31"
     },
     {
       "name": "افلام تركى",
-      "url": "https://wecima.watch/category/%d8%a3%d9%81%d9%84%d8%a7%d9%85/1-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%aa%d8%b1%d9%83%d9%89-turkish-films/"
+      "url": "https://ak.sv/movies?section=32"
     },
     {
       "name": "اافلام كرتون",
-      "url": "https://wecima.watch/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%83%d8%b1%d8%aa%d9%88%d9%86/"
+      "url": "https://ak.sv/movies?section=33"
     },
     {
       "name": "افلام وثائقية",
-      "url": "https://wecima.watch/category/%d8%a3%d9%81%d9%84%d8%a7%d9%85/1-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%88%d8%ab%d8%a7%d8%a6%d9%82%d9%8a%d8%a9-documentary-films/"
+      "url": "https://ak.sv/movies?section=34"
     }
   ]
 }
