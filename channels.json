@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "id": "1",
+      "name": "القرآن الكريم",
+      "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
+      "stream": "https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=111111111",
+      "category": "دينية"
+    }
+  ]
+}
