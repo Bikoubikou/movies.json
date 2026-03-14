@@ -2,7 +2,7 @@
   "channels": [
     {
       "id": "1",
-      "name": "القرآن الكريم",
+      "name": "القرآن الكريم - السعودية",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "country": "السعودية",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "القرآن الكريم",
+      "name": "الجزيرة - قطر",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "country": "قطر",
@@ -18,10 +18,10 @@
     },
     {
       "id": "3",
-      "name": "القرآن الكريم",
+      "name": "Sky News - الإمارات",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "country": "قطر",
+      "country": "الإمارات",
       "genre": "أخبار"
     }
   ]
