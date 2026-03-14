@@ -5,21 +5,24 @@
       "name": "القرآن الكريم",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "category": "دينية"
+      "country": "السعودية",
+      "genre": "دينية"
     }
     {
       "id": "2",
       "name": "القرآن الكريم",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "category": "دينية"
+      "country": "قطر",
+      "genre": "أخبار"
     }
     {
       "id": "3",
       "name": "القرآن الكريم",
       "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "category": "دينية"
+      "country": "قطر",
+      "genre": "أخبار"
     }
   ]
 }
