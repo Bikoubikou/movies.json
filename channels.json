@@ -2,11 +2,11 @@
   "channels": [
     {
       "id": "1",
-      "name": "القرآن الكريم - السعودية",
-      "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
+      "name": "الجديدة",
+      "logo": "https://www.livehdtv.com/uploads/kanal/30380Al-Jadeed-logo.png",
       "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "country": "السعودية",
-      "genre": "دينية"
+      "country": "لبنان",
+      "genre": "عامة"
     },
     {
       "id": "2",
