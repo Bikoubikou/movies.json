@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Aghapy TV",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
       "stream": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
       "country": "مصر",
       "genre": "ديني"
