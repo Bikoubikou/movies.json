@@ -503,6 +503,78 @@
       "stream": "http://116.90.120.151:8000/play/a0ax/index.m3u8",
       "country": "الإمارات",
       "genre": "أفلام"
+    },
+        {
+      "id": "64",
+      "name": "2M Monde",
+      "logo": "",
+      "stream": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "65",
+      "name": "2M Monde +1",
+      "logo": "",
+      "stream": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "66",
+      "name": "Chada TV",
+      "logo": "",
+      "stream": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "67",
+      "name": "Chada TV",
+      "logo": "",
+      "stream": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "68",
+      "name": "Chada TV",
+      "logo": "",
+      "stream": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "69",
+      "name": "Medi1TV Afrique",
+      "logo": "",
+      "stream": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+      "country": "المغرب",
+      "genre": "أخبار"
+    },
+    {
+      "id": "70",
+      "name": "Medi 1 TV Arabic",
+      "logo": "",
+      "stream": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+      "country": "المغرب",
+      "genre": "أخبار"
+    },
+    {
+      "id": "71",
+      "name": "Medi 1 TV Maghreb",
+      "logo": "",
+      "stream": "https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "72",
+      "name": "StoryChannel TV",
+      "logo": "",
+      "stream": "https://136044159.r.cdnsun.net/storychannel.m3u8",
+      "country": "المغرب",
+      "genre": "عامة"
     }
   ]
 }
