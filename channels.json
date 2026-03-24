@@ -575,6 +575,102 @@
       "stream": "https://136044159.r.cdnsun.net/storychannel.m3u8",
       "country": "المغرب",
       "genre": "عامة"
+    },
+        {
+      "id": "73",
+      "name": "Alalam News Channel Syria",
+      "logo": "",
+      "stream": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+      "country": "سوريا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "74",
+      "name": "Althania",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "75",
+      "name": "Damascus Radio",
+      "logo": "",
+      "stream": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
+      "country": "سوريا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "76",
+      "name": "Halab Today TV",
+      "logo": "",
+      "stream": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+      "country": "سوريا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "77",
+      "name": "LTV",
+      "logo": "",
+      "stream": "https://p-ltv.akamaized.net/ltv/ltv.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "78",
+      "name": "Rojava TV",
+      "logo": "",
+      "stream": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+      "country": "سوريا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "79",
+      "name": "Ronahi TV",
+      "logo": "",
+      "stream": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "80",
+      "name": "Syria One",
+      "logo": "",
+      "stream": "https://live.syriaone.tv/live/syriaone.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "81",
+      "name": "Syria TV",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "82",
+      "name": "Syria TV",
+      "logo": "",
+      "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "83",
+      "name": "Syria TV",
+      "logo": "",
+      "stream": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
+    },
+    {
+      "id": "84",
+      "name": "Welat TV",
+      "logo": "",
+      "stream": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "country": "سوريا",
+      "genre": "عامة"
     }
   ]
 }
