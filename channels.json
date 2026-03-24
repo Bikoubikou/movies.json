@@ -27,7 +27,7 @@
     {
       "id": "4",
       "name": "CBC",
-      "logo": "",
+      "logo": "https://www.elahmad.com/tv/mobiletv/images/cbc.jpg?v=7",
       "stream": "https://flu.systemnet.tv/CBC/index.m3u8",
       "country": "مصر",
       "genre": "عامة"
@@ -35,7 +35,7 @@
     {
       "id": "5",
       "name": "CBC Drama",
-      "logo": "",
+      "logo": "https://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg?v=7",
       "stream": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
       "country": "مصر",
       "genre": "دراما"
@@ -43,7 +43,7 @@
     {
       "id": "6",
       "name": "CBC Sofra",
-      "logo": "",
+      "logo": "https://www.elahmad.com/tv/mobiletv/images/cbc_sofra.jpg?v=7",
       "stream": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
       "country": "مصر",
       "genre": "طبخ"
@@ -67,7 +67,7 @@
     {
       "id": "9",
       "name": "Elsharq TV",
-      "logo": "",
+      "logo": "https://www.elahmad.com/tv/mobiletv/images/elsharqtv.jpg?v=7",
       "stream": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
       "country": "مصر",
       "genre": "أخبار"
