@@ -183,6 +183,1198 @@
       "stream": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
       "country": "قطر",
       "genre": "عامة"
+    },
+      {
+      "id": "24",
+      "name": "Al Saudiya",
+      "logo": "https://i.imgur.com/GRQTndk.png",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "25",
+      "name": "SBC Saudi Arabia",
+      "logo": "https://i.imgur.com/9JSQglj.png",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "26",
+      "name": "Al Ekhbariya",
+      "logo": "https://i.imgur.com/WcRlHQm.png",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "27",
+      "name": "Al Saudiya Alaan",
+      "logo": "https://i.imgur.com/sEOjApe.png",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "28",
+      "name": "Al Quran Al Kareem TV",
+      "logo": "https://i.imgur.com/A2fJysM.png",
+      "stream": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "29",
+      "name": "Rotana Cinema KSA",
+      "logo": "https://i.imgur.com/pGgp38I.png",
+      "stream": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "30",
+      "name": "Rotana Classic",
+      "logo": "https://i.imgur.com/pMMUvkt.png",
+      "stream": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+     {
+      "id": "31",
+      "name": "Cartoon Network Arabic",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",
+      "stream": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أطفال"
+    },
+    {
+      "id": "32",
+      "name": "Al Arabiya Business",
+      "logo": "https://i.imgur.com/eEV4r6J.jpg",
+      "stream": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "اقتصاد"
+    },
+    {
+      "id": "33",
+      "name": "MBC 1",
+      "logo": "https://i.imgur.com/CiA3plN.png",
+      "stream": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "34",
+      "name": "MBC 2",
+      "logo": "https://i.imgur.com/n9mSHuP.png",
+      "stream": "http://37.122.156.107:4000/play/a07g/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أفلام"
+    },
+    {
+      "id": "35",
+      "name": "MBC 3",
+      "logo": "https://i.imgur.com/PVt8OPN.png",
+      "stream": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أطفال"
+    },
+    {
+      "id": "36",
+      "name": "MBC 4",
+      "logo": "https://i.imgur.com/BcXASJp.png",
+      "stream": "https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "37",
+      "name": "MBC 5",
+      "logo": "https://i.imgur.com/fRWaDyF.png",
+      "stream": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+      "country": "الإمارات",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "38",
+      "name": "MBC Action",
+      "logo": "https://i.imgur.com/OWZAghw.png",
+      "stream": "http://37.122.156.107:4000/play/a07h/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أفلام"
+    },
+    {
+      "id": "39",
+      "name": "MBC Bollywood",
+      "logo": "https://i.imgur.com/TTAGFHG.png",
+      "stream": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أفلام"
+    },
+    {
+      "id": "40",
+      "name": "MBC Drama",
+      "logo": "https://i.imgur.com/g5PWnqp.png",
+      "stream": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+      "country": "الإمارات",
+      "genre": "دراما"
+    },
+    {
+      "id": "41",
+      "name": "MBC Max",
+      "logo": "https://i.imgur.com/A02CptP.png",
+      "stream": "http://37.122.156.107:4000/play/a07i/index.m3u8",
+      "country": "الإمارات",
+      "genre": "أفلام"
+    },
+    {
+      "id": "42",
+      "name": "MBC Persia",
+      "logo": "https://i.imgur.com/4FXiyjn.png",
+      "stream": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "43",
+      "name": "Wanasah",
+      "logo": "https://i.imgur.com/nLtiXNf.png",
+      "stream": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
+      "country": "الإمارات",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "44",
+      "name": "Sky News Arabia",
+      "logo": "https://i.imgur.com/SvjU4h6.png",
+      "stream": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "country": "الإمارات",
+      "genre": "أخبار"
+    },
+    {
+      "id": "45",
+      "name": "Baynounah TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png",
+      "stream": "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "46",
+      "name": "Ajman TV",
+      "logo": "https://pbs.twimg.com/profile_images/1085187553563561990/KRKuK_iW_400x400.jpg",
+      "stream": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "47",
+      "name": "Al Aan TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png",
+      "stream": "https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "48",
+      "name": "Abu Dhabi TV",
+      "logo": "https://i.imgur.com/7cNke07.png",
+      "stream": "http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "49",
+      "name": "Abu Dhabi Sports 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png",
+      "stream": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "50",
+      "name": "Abu Dhabi Sports 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png",
+      "stream": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "51",
+      "name": "National Geographic Abu Dhabi",
+      "logo": "https://i.imgur.com/fNA00VF.png",
+      "stream": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "52",
+      "name": "Ajman TV",
+      "logo": "https://www.lyngsat.com/logo/tv/aa/ajman-tv-ae.png",
+      "stream": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/index.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "53",
+      "name": "Dubai TV",
+      "logo": "https://i.imgur.com/wZMkKF7.png",
+      "stream": "https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "54",
+      "name": "Dubai One",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png",
+      "stream": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "55",
+      "name": "Dubai Sports 1",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "stream": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "56",
+      "name": "Dubai Sports 2",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "stream": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "57",
+      "name": "Dubai Sports 3",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "stream": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "58",
+      "name": "Dubai Racing 1",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "stream": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "59",
+      "name": "Dubai Racing 2",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "stream": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "60",
+      "name": "Dubai Racing 3",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "stream": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "61",
+      "name": "Dubai Zaman",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png",
+      "stream": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "62",
+      "name": "Sama Dubai",
+      "logo": "https://i.imgur.com/bF6I3N1.jpg",
+      "stream": "https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "63",
+      "name": "Noor Dubai",
+      "logo": "https://i.imgur.com/DLe7ZuM.png",
+      "stream": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "ديني"
+    },
+    {
+      "id": "64",
+      "name": "Sharjah TV",
+      "logo": "https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png",
+      "stream": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+    {
+      "id": "65",
+      "name": "Sharjah Sports",
+      "logo": "https://i.imgur.com/IaRaabJ.jpg",
+      "stream": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "رياضة"
+    },
+    {
+      "id": "66",
+      "name": "Al Wousta",
+      "logo": "https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif",
+      "stream": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+      "country": "الإمارات",
+      "genre": "عامة"
+    },
+     {
+      "id": "67",
+      "name": "Aghapy TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+      "stream": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "ديني"
+    },
+    {
+      "id": "68",
+      "name": "Al Ghad Plus",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png",
+      "stream": "https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "69",
+      "name": "Al Ghad TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png",
+      "stream": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "70",
+      "name": "Al Qahera News",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b0/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9.png",
+      "stream": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أخبار"
+    },
+    {
+      "id": "71",
+      "name": "Alhayat TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Al-Hayat_Media_Center_Logo_%28variant_2%29.svg",
+      "stream": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "72",
+      "name": "Coptic TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg",
+      "stream": "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "ديني"
+    },
+    {
+      "id": "73",
+      "name": "Huda TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif",
+      "stream": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+      "country": "مصر",
+      "genre": "ديني"
+    },
+    {
+      "id": "74",
+      "name": "Koogi TV",
+      "logo": "",
+      "stream": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أطفال"
+    },
+    {
+      "id": "75",
+      "name": "MBC Masr 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
+      "stream": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "76",
+      "name": "MBC Masr 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg",
+      "stream": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+      "country": "مصر",
+      "genre": "دراما"
+    },
+    {
+      "id": "77",
+      "name": "Rotana Cinema",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png",
+      "stream": "https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أفلام"
+    },
+    {
+      "id": "78",
+      "name": "Watan TV",
+      "logo": "",
+      "stream": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أخبار"
+    },
+      {
+      "id": "79",
+      "name": "Arte",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",
+      "stream": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "80",
+      "name": "C8",
+      "logo": "https://i.imgur.com/LXhXF8l.png",
+      "stream": "https://www.dailymotion.com/video/x5gv5rr",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "81",
+      "name": "NRJ 12",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png",
+      "stream": "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "82",
+      "name": "LCP",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png",
+      "stream": "https://lcp.fr/le-live-lcp-tnt-5433",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "83",
+      "name": "Public Sénat",
+      "logo": "https://i.imgur.com/bJOdFT1.png",
+      "stream": "https://www.publicsenat.fr/direct",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "84",
+      "name": "CNews",
+      "logo": "https://i.imgur.com/UMRGAHx.png",
+      "stream": "https://www.dailymotion.com/video/x3b68jn",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "85",
+      "name": "Franceinfo",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+      "stream": "https://www.youtube.com/c/franceinfo/live",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "86",
+      "name": "France 24",
+      "logo": "https://i.imgur.com/61MSiq9.png",
+      "stream": "https://www.youtube.com/c/FRANCE24/live",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "87",
+      "name": "Euronews Français",
+      "logo": "https://i.imgur.com/3Lr5iAj.png",
+      "stream": "https://www.youtube.com/euronewsfr/live",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "88",
+      "name": "Africanews",
+      "logo": "https://i.imgur.com/xocvePC.png",
+      "stream": "https://www.youtube.com/c/Africanewsfr/live",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "89",
+      "name": "L'Équipe",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png",
+      "stream": "https://www.dailymotion.com/video/x2lefik",
+      "country": "فرنسا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "90",
+      "name": "France Inter",
+      "logo": "https://i.imgur.com/d9Ncl8m.png",
+      "stream": "https://www.youtube.com/c/FranceInter/live",
+      "country": "فرنسا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "91",
+      "name": "CGTN Français",
+      "logo": "https://i.imgur.com/fMsJYzl.png",
+      "stream": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "92",
+      "name": "TV5 Monde Info",
+      "logo": "https://i.imgur.com/NcysrWH.png",
+      "stream": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
+      "country": "فرنسا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "93",
+      "name": "TV5 Monde FBS",
+      "logo": "https://i.imgur.com/uPmwTo9.png",
+      "stream": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "94",
+      "name": "TV5 Monde Europe",
+      "logo": "https://i.imgur.com/uPmwTo9.png",
+      "stream": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+     {
+      "id": "95",
+      "name": "Rai 1",
+      "logo": "https://i.imgur.com/CAx7yRm.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "96",
+      "name": "Rai 2",
+      "logo": "https://i.imgur.com/zA0PTcs.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "97",
+      "name": "Rai 3",
+      "logo": "https://i.imgur.com/9kuQCIi.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "98",
+      "name": "Rete 4",
+      "logo": "https://i.imgur.com/GWx2Fkl.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "99",
+      "name": "Canale 5",
+      "logo": "https://i.imgur.com/p6YdiR1.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "100",
+      "name": "Italia 1",
+      "logo": "https://i.imgur.com/oCiOxBG.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "101",
+      "name": "La7",
+      "logo": "https://i.imgur.com/F90mpSa.png",
+      "stream": "https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "102",
+      "name": "TV8",
+      "logo": "https://i.imgur.com/xvoHVOU.png",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "103",
+      "name": "Nove",
+      "logo": "https://i.imgur.com/Hp723RU.png",
+      "stream": "https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "104",
+      "name": "20 Mediaset",
+      "logo": "https://i.imgur.com/It13jwX.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "105",
+      "name": "Rai 4",
+      "logo": "https://i.imgur.com/XFkZRfv.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "106",
+      "name": "Iris",
+      "logo": "https://i.imgur.com/Ixz1BY3.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "107",
+      "name": "Rai 5",
+      "logo": "https://i.imgur.com/Leu2zTO.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "ثقافي"
+    },
+    {
+      "id": "108",
+      "name": "Rai Movie",
+      "logo": "https://i.imgur.com/RKpO8CE.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "109",
+      "name": "Rai Premium",
+      "logo": "https://i.imgur.com/RKI4nFy.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "دراما"
+    },
+    {
+      "id": "110",
+      "name": "Cielo",
+      "logo": "https://i.imgur.com/cPluF03.png",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "111",
+      "name": "27 Twentyseven",
+      "logo": "https://i.imgur.com/y2PdPCK.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "112",
+      "name": "TV 2000",
+      "logo": "https://i.imgur.com/x7RaK3a.png",
+      "stream": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "ديني"
+    },
+    {
+      "id": "113",
+      "name": "La7 Cinema",
+      "logo": "https://i.imgur.com/khPweok.png",
+      "stream": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "114",
+      "name": "La 5",
+      "logo": "https://i.imgur.com/UNyJaho.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "115",
+      "name": "Real Time",
+      "logo": "https://i.imgur.com/9dcTYg1.png",
+      "stream": "https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "منوعات"
+    },
+    {
+      "id": "116",
+      "name": "QVC",
+      "logo": "https://i.imgur.com/Ea7iUX2.png",
+      "stream": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "تسوق"
+    },
+    {
+      "id": "117",
+      "name": "Food Network",
+      "logo": "https://i.imgur.com/i60OYr9.png",
+      "stream": "https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "طبخ"
+    },
+    {
+      "id": "118",
+      "name": "Cine34",
+      "logo": "https://i.imgur.com/YyldwhI.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "119",
+      "name": "Focus",
+      "logo": "https://i.imgur.com/M4smqpF.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "120",
+      "name": "RTL 102.5",
+      "logo": "https://i.imgur.com/KdissvS.png",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "121",
+      "name": "Discovery Channel",
+      "logo": "https://i.imgur.com/5IxIFJ0.png",
+      "stream": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "122",
+      "name": "Giallo",
+      "logo": "https://i.imgur.com/0PIRwZS.png",
+      "stream": "https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "123",
+      "name": "Top Crime",
+      "logo": "https://i.imgur.com/RFIwv9O.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أفلام"
+    },
+    {
+      "id": "124",
+      "name": "BOING",
+      "logo": "https://i.imgur.com/niSlrqT.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "125",
+      "name": "K2",
+      "logo": "https://i.imgur.com/wlLgSiA.png",
+      "stream": "https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "126",
+      "name": "Rai Gulp",
+      "logo": "https://i.imgur.com/lu1DPVb.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "127",
+      "name": "Rai YoYo",
+      "logo": "https://i.imgur.com/DRSa3ys.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "128",
+      "name": "Frisbee",
+      "logo": "https://i.imgur.com/9y1zIAe.png",
+      "stream": "https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "129",
+      "name": "Cartoonito",
+      "logo": "https://i.imgur.com/oK2DcDJ.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "130",
+      "name": "Super!",
+      "logo": "https://i.imgur.com/1124YEp.png",
+      "stream": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "131",
+      "name": "Rai News 24",
+      "logo": "https://i.imgur.com/gdzGwB6.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "132",
+      "name": "Italia 2",
+      "logo": "https://i.imgur.com/nq48sjO.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "133",
+      "name": "Sky TG24",
+      "logo": "https://i.imgur.com/q4d3Dah.png",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "134",
+      "name": "TGCOM 24",
+      "logo": "https://i.imgur.com/xautVD8.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "135",
+      "name": "DMAX",
+      "logo": "https://i.imgur.com/dmEmRX7.png",
+      "stream": "https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "136",
+      "name": "Rai Storia",
+      "logo": "https://i.imgur.com/K8y5q8x.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "137",
+      "name": "Mediaset Extra",
+      "logo": "https://i.imgur.com/mM8lopo.png",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "منوعات"
+    },
+    {
+      "id": "138",
+      "name": "HGTV – Home & Garden Tv",
+      "logo": "https://i.imgur.com/emLNC0U.png",
+      "stream": "https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "منوعات"
+    },
+    {
+      "id": "139",
+      "name": "Rai Scuola",
+      "logo": "https://i.imgur.com/tmtJW6s.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "تعليمي"
+    },
+    {
+      "id": "140",
+      "name": "Rai Sport",
+      "logo": "https://i.imgur.com/xsGljsb.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "141",
+      "name": "Motor Trend",
+      "logo": "https://i.imgur.com/ipj2H0n.png",
+      "stream": "https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "142",
+      "name": "Sportitalia Plus",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "stream": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "143",
+      "name": "Travel TV",
+      "logo": "https://i.imgur.com/aXAUyLN.png",
+      "stream": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "سفر"
+    },
+    {
+      "id": "144",
+      "name": "Donna TV",
+      "logo": "https://i.imgur.com/Aa1Abme.png",
+      "stream": "https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "منوعات"
+    },
+    {
+      "id": "145",
+      "name": "SuperTennis",
+      "logo": "https://i.imgur.com/GzsPlbX.png",
+      "stream": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "146",
+      "name": "Alma TV",
+      "logo": "https://i.imgur.com/Y8JiDwN.png",
+      "stream": "https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "147",
+      "name": "Radio 105 TV",
+      "logo": "https://i.imgur.com/3NiLKvj.png",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "148",
+      "name": "R101 TV",
+      "logo": "https://i.imgur.com/mWeEa9T.png",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "149",
+      "name": "Deejay TV",
+      "logo": "https://i.imgur.com/rlaKH6k.png",
+      "stream": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "150",
+      "name": "RadioItaliaTV",
+      "logo": "https://i.imgur.com/4VCEJuJ.png",
+      "stream": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "151",
+      "name": "Radio KISS KISS TV",
+      "logo": "https://i.imgur.com/UTStxDW.png",
+      "stream": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "152",
+      "name": "Rai Radio 2 Visual Radio",
+      "logo": "https://i.imgur.com/nVBet0h.png",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "153",
+      "name": "RTL 102.5 Traffic",
+      "logo": "https://i.imgur.com/GH7byqm.jpeg",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "154",
+      "name": "MAN-GA",
+      "logo": "https://i.imgur.com/8a6WYU2.png",
+      "stream": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "أنمي"
+    },
+    {
+      "id": "155",
+      "name": "Radio24-IlSole24OreTV",
+      "logo": "https://i.imgur.com/NTqrdWW.png",
+      "stream": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "156",
+      "name": "BeJoy.Kids",
+      "logo": "https://i.imgur.com/zuR9Go5.png",
+      "stream": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "أطفال"
+    },
+    {
+      "id": "157",
+      "name": "Gambero Rosso",
+      "logo": "https://i.imgur.com/RApMW5x.png",
+      "stream": "https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "طبخ"
+    },
+    {
+      "id": "158",
+      "name": "RadioFreccia",
+      "logo": "https://i.imgur.com/J5N9F7Z.png",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "159",
+      "name": "RDS Social TV",
+      "logo": "https://i.imgur.com/TY6FhqI.png",
+      "stream": "https://stream.rdstv.radio/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "160",
+      "name": "Radio ZETA",
+      "logo": "https://i.imgur.com/0MgCm1n.png",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "161",
+      "name": "Radio TV Serie A con RDS",
+      "logo": "https://i.imgur.com/NzDeCIx.png",
+      "stream": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "162",
+      "name": "Sportitalia SOLOCALCIO",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "stream": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "163",
+      "name": "BIKE Channel",
+      "logo": "https://i.imgur.com/4IzVSQI.png",
+      "stream": "https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8",
+      "country": "إيطاليا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "164",
+      "name": "Radio Montecarlo TV",
+      "logo": "https://i.imgur.com/3TMMXmS.png",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "165",
+      "name": "Virgin Radio TV",
+      "logo": "https://i.imgur.com/7Im3HI1.png",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "166",
+      "name": "Senato TV",
+      "logo": "https://i.imgur.com/FoQoNZW.png",
+      "stream": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "167",
+      "name": "Camera dei Deputati",
+      "logo": "https://i.imgur.com/fqGn1k9.png",
+      "stream": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "168",
+      "name": "Rai 4K",
+      "logo": "https://i.imgur.com/5gkt9DD.png",
+      "stream": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "عامة"
+    },
+    {
+      "id": "169",
+      "name": "UniNettuno University TV",
+      "logo": "https://i.imgur.com/BOGMeio.png",
+      "stream": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
+      "country": "إيطاليا",
+      "genre": "تعليمي"
+    },
+    {
+      "id": "170",
+      "name": "Radio Colonna TV",
+      "logo": "https://i.imgur.com/EcQvDfq.png",
+      "stream": "https://www.youtube.com/radiocolonna/live",
+      "country": "إيطاليا",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "171",
+      "name": "TRM h24",
+      "logo": "https://i.imgur.com/d47CdYU.png",
+      "stream": "https://www.youtube.com/user/trmh24/live",
+      "country": "إيطاليا",
+      "genre": "أخبار"
+    },
+    {
+      "id": "172",
+      "name": "Euronews Italian",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+      "stream": "https://www.youtube.com/user/euronewsit/live",
+      "country": "إيطاليا",
+      "genre": "أخبار"
     }
   ]
 }
