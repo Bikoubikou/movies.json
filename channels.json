@@ -671,6 +671,510 @@
       "stream": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
       "country": "سوريا",
       "genre": "عامة"
+    },
+        {
+      "id": "85",
+      "name": "Abdulmajeed Abdullah",
+      "logo": "",
+      "stream": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "86",
+      "name": "Aflam",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "87",
+      "name": "Al Arabiya Al Hadath",
+      "logo": "",
+      "stream": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "88",
+      "name": "Al Arabiya English",
+      "logo": "",
+      "stream": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "89",
+      "name": "Al Arabiya English",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "90",
+      "name": "Al Ekhbariya",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "91",
+      "name": "Al Ekhbariya",
+      "logo": "",
+      "stream": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "92",
+      "name": "Al Hadath",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "93",
+      "name": "Al Hadath TV",
+      "logo": "",
+      "stream": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "94",
+      "name": "Al Quran Al Kareem TV",
+      "logo": "",
+      "stream": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "95",
+      "name": "Al Resalah",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "96",
+      "name": "Al Riyadh Radio",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "97",
+      "name": "Al Saudiya",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "98",
+      "name": "Al Saudiya",
+      "logo": "",
+      "stream": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "99",
+      "name": "Al Saudiya",
+      "logo": "",
+      "stream": "http://trn03.bozztv.com/gin-sauditv/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "100",
+      "name": "Al Saudiya Alaan",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "101",
+      "name": "Al Sunnah Al Nabawiyah TV",
+      "logo": "",
+      "stream": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "102",
+      "name": "Al-Majd Holy Quran",
+      "logo": "",
+      "stream": "https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "103",
+      "name": "Alkhuzama Radio",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "104",
+      "name": "Anime",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8",
+      "country": "السعودية",
+      "genre": "أطفال"
+    },
+    {
+      "id": "105",
+      "name": "Asharq Discovery",
+      "logo": "",
+      "stream": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+      "country": "السعودية",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "106",
+      "name": "Asharq Documentary",
+      "logo": "",
+      "stream": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+      "country": "السعودية",
+      "genre": "وثائقي"
+    },
+    {
+      "id": "107",
+      "name": "Asharq News",
+      "logo": "",
+      "stream": "https://live-news.asharq.com/asharq.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "108",
+      "name": "Asharq News",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "109",
+      "name": "Asharq News",
+      "logo": "",
+      "stream": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "country": "السعودية",
+      "genre": "أخبار"
+    },
+    {
+      "id": "110",
+      "name": "Asharq Radio",
+      "logo": "",
+      "stream": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "111",
+      "name": "Atfal & Mawaheb TV",
+      "logo": "",
+      "stream": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أطفال"
+    },
+    {
+      "id": "112",
+      "name": "Atfal & Mawaheb TV",
+      "logo": "",
+      "stream": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أطفال"
+    },
+    {
+      "id": "113",
+      "name": "Bab Al Hara",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+      "country": "السعودية",
+      "genre": "دراما"
+    },
+    {
+      "id": "114",
+      "name": "Big Time Plus",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "115",
+      "name": "Fairuz",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "116",
+      "name": "Iqraa Africa & Europe",
+      "logo": "",
+      "stream": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "117",
+      "name": "Iqraa Arabic",
+      "logo": "",
+      "stream": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "118",
+      "name": "Iqraa Quran",
+      "logo": "",
+      "stream": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "119",
+      "name": "LBC",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "120",
+      "name": "Majid Al Mohandis",
+      "logo": "",
+      "stream": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "121",
+      "name": "Makkah TV",
+      "logo": "",
+      "stream": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "122",
+      "name": "Maraya",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "123",
+      "name": "MBC Loud",
+      "logo": "",
+      "stream": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "124",
+      "name": "MBC Masr Drama",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+      "country": "السعودية",
+      "genre": "دراما"
+    },
+    {
+      "id": "125",
+      "name": "MBC+ Drama",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
+      "country": "السعودية",
+      "genre": "دراما"
+    },
+    {
+      "id": "126",
+      "name": "Mohammed Abdo",
+      "logo": "",
+      "stream": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "127",
+      "name": "Movies Action",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "128",
+      "name": "Movies Thriller",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "129",
+      "name": "Nidae AlIslam Radio",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "130",
+      "name": "Panorama FM",
+      "logo": "",
+      "stream": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "131",
+      "name": "Panorama FM",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "132",
+      "name": "Quran Radio",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "ديني"
+    },
+    {
+      "id": "133",
+      "name": "Rabeh Saqer",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "134",
+      "name": "Rashid AlMajed",
+      "logo": "",
+      "stream": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "135",
+      "name": "Rotana Cinema KSA",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "136",
+      "name": "Rotana Classic",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "137",
+      "name": "Rotana Clip",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "138",
+      "name": "Rotana Comedy",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "139",
+      "name": "Rotana Drama",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "دراما"
+    },
+    {
+      "id": "140",
+      "name": "Rotana FM KSA",
+      "logo": "",
+      "stream": "rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "141",
+      "name": "Rotana Khalijia",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "142",
+      "name": "Rotana Music",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "143",
+      "name": "Saudi Thaqafiya TV",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+      "country": "السعودية",
+      "genre": "ثقافي"
+    },
+    {
+      "id": "144",
+      "name": "Saudia Radio",
+      "logo": "",
+      "stream": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "145",
+      "name": "SBC",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+      "country": "السعودية",
+      "genre": "عامة"
+    },
+    {
+      "id": "146",
+      "name": "Spooky Nights",
+      "logo": "",
+      "stream": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
+      "country": "السعودية",
+      "genre": "أفلام"
+    },
+    {
+      "id": "147",
+      "name": "Tarab",
+      "logo": "",
+      "stream": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+      "country": "السعودية",
+      "genre": "موسيقى"
     }
   ]
 }
