@@ -2,26 +2,146 @@
   "channels": [
     {
       "id": "1",
-      "name": "الجديدة",
-      "logo": "https://www.livehdtv.com/uploads/kanal/30380Al-Jadeed-logo.png",
-      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "country": "لبنان",
-      "genre": "عامة"
+      "name": "Aghapy TV",
+      "logo": "",
+      "stream": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "ديني"
     },
     {
       "id": "2",
-      "name": "الجزيرة - قطر",
-      "logo": "https://www.elahmad.com/tv/mobiletv/images/aljazeera.jpg?v=7",
-      "stream": "https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8",
-      "country": "قطر",
-      "genre": "أخبار"
+      "name": "Al Ghad TV",
+      "logo": "",
+      "stream": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
     },
     {
       "id": "3",
-      "name": "Sky News - الإمارات",
-      "logo": "https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",
-      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "country": "الإمارات",
+      "name": "ATVSat",
+      "logo": "",
+      "stream": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "قبطي"
+    },
+    {
+      "id": "4",
+      "name": "CBC",
+      "logo": "",
+      "stream": "https://flu.systemnet.tv/CBC/index.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "5",
+      "name": "CBC Drama",
+      "logo": "",
+      "stream": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
+      "country": "مصر",
+      "genre": "دراما"
+    },
+    {
+      "id": "6",
+      "name": "CBC Sofra",
+      "logo": "",
+      "stream": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+      "country": "مصر",
+      "genre": "طبخ"
+    },
+    {
+      "id": "7",
+      "name": "Coptic TV",
+      "logo": "",
+      "stream": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+      "country": "مصر",
+      "genre": "قبطي"
+    },
+    {
+      "id": "8",
+      "name": "El Radio 9090 FM",
+      "logo": "",
+      "stream": "https://9090video.mobtada.com/hls/stream.m3u8",
+      "country": "مصر",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "9",
+      "name": "Elsharq TV",
+      "logo": "",
+      "stream": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أخبار"
+    },
+    {
+      "id": "10",
+      "name": "Huda TV",
+      "logo": "",
+      "stream": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+      "country": "مصر",
+      "genre": "ديني"
+    },
+    {
+      "id": "11",
+      "name": "Koogi TV",
+      "logo": "",
+      "stream": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أطفال"
+    },
+    {
+      "id": "12",
+      "name": "MBC 1 Egypt",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "13",
+      "name": "MBC Masr",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "country": "مصر",
+      "genre": "عامة"
+    },
+    {
+      "id": "14",
+      "name": "MBC Masr 2",
+      "logo": "",
+      "stream": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "country": "مصر",
+      "genre": "دراما"
+    },
+    {
+      "id": "15",
+      "name": "Mix Hollywood",
+      "logo": "",
+      "stream": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+      "country": "مصر",
+      "genre": "أفلام"
+    },
+    {
+      "id": "16",
+      "name": "NogoumFMTV",
+      "logo": "",
+      "stream": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+      "country": "مصر",
+      "genre": "موسيقى"
+    },
+    {
+      "id": "17",
+      "name": "Rotana Cinema Egypt",
+      "logo": "",
+      "stream": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "country": "مصر",
+      "genre": "أفلام"
+    },
+    {
+      "id": "18",
+      "name": "Watan TV",
+      "logo": "",
+      "stream": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+      "country": "مصر",
       "genre": "أخبار"
     }
   ]
