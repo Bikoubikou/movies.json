@@ -375,6 +375,166 @@
       "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10148.ts",
       "country": "السعودية",
       "genre": "رياضة"
+    },
+        {
+      "id": "48",
+      "name": "PALESTINE SPORT",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10102.ts",
+      "country": "فلسطين",
+      "genre": "رياضة"
+    },
+    {
+      "id": "49",
+      "name": "ON TV SPORT",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10103.ts",
+      "country": "مصر",
+      "genre": "رياضة"
+    },
+    {
+      "id": "50",
+      "name": "ONTIME SPORTS 2",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10104.ts",
+      "country": "مصر",
+      "genre": "رياضة"
+    },
+    {
+      "id": "51",
+      "name": "TIME SPORTS",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10105.ts",
+      "country": "مصر",
+      "genre": "رياضة"
+    },
+    {
+      "id": "52",
+      "name": "LIBYA SPORT CHANNEL",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10106.ts",
+      "country": "ليبيا",
+      "genre": "رياضة"
+    },
+    {
+      "id": "53",
+      "name": "EL HEDDAF",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10107.ts",
+      "country": "الجزائر",
+      "genre": "رياضة"
+    },
+    {
+      "id": "54",
+      "name": "ARRYADIA",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10108.ts",
+      "country": "المغرب",
+      "genre": "رياضة"
+    },
+    {
+      "id": "55",
+      "name": "ARRYADIA",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10109.ts",
+      "country": "المغرب",
+      "genre": "رياضة"
+    },
+    {
+      "id": "56",
+      "name": "ALKASS 5",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10110.ts",
+      "country": "قطر",
+      "genre": "رياضة"
+    },
+    {
+      "id": "57",
+      "name": "ALKASS 4",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10111.ts",
+      "country": "قطر",
+      "genre": "رياضة"
+    },
+        {
+      "id": "58",
+      "name": "BUNDESLIGA SHAHID 7",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10162.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "59",
+      "name": "BUNDESLIGA SHAHID 6",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10163.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "60",
+      "name": "BUNDESLIGA SHAHID 5",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10164.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "61",
+      "name": "BUNDESLIGA SHAHID 4",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10165.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "62",
+      "name": "BUNDESLIGA SHAHID 3",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10166.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "63",
+      "name": "BUNDESLIGA SHAHID 2",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10167.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "64",
+      "name": "BUNDESLIGA SHAHID 1",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10168.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "65",
+      "name": "ShaHid 3 Event",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10169.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "66",
+      "name": "ShaHid 2 Event",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10170.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
+    },
+    {
+      "id": "67",
+      "name": "ShaHid 1 Event",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/834342586310/322756601238/10171.ts",
+      "country": "السعودية",
+      "genre": "رياضة"
     }
   ]
 }
