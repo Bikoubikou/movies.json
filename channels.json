@@ -591,6 +591,198 @@
       "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/10171.ts",
       "country": "السعودية",
       "genre": "رياضة"
+    },
+        {
+      "id": "75",
+      "name": "AL AOULA INTER",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvjT5YT9k8FZXydNYXVMSqYG6HpIalsvAUoKZ5sKiQw&s=10",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11235.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "76",
+      "name": "AL AOULA LAAYOUNE",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvjT5YT9k8FZXydNYXVMSqYG6HpIalsvAUoKZ5sKiQw&s=10",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11236.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "77",
+      "name": "2M MAROC",
+      "logo": "https://images.seeklogo.com/logo-png/31/1/chaine-2m-maroc-logo-png_seeklogo-310278.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11237.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "78",
+      "name": "ARRYADIA",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11238.ts",
+      "country": "المغرب",
+      "genre": "رياضة"
+    },
+    {
+      "id": "79",
+      "name": "ARRYADIA TNT",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscoeQ4mJVRTFhU8XhAe6UonoA7IRBPgz9M5TKTTWM-w&s=10",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11239.ts",
+      "country": "المغرب",
+      "genre": "رياضة"
+    },
+    {
+      "id": "80",
+      "name": "ATHAQAFIA",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIhI7yyTU6mJEv_fbj8CJrB_oP1Fde5xVEHorngUle1v33KNIe4WCszD1gwHzeQqUBeqLK11Aux0-y8vRZqDKb5V5FauCc6MMORq_XkwHT4_1WLA_ieoQIbSyagK4ev1qeGO-DZA_-fEo/s1600/Athaqafia.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11240.ts",
+      "country": "المغرب",
+      "genre": "ثقافي"
+    },
+    {
+      "id": "81",
+      "name": "AL MAGHRIBIA",
+      "logo": "https://yt3.googleusercontent.com/7WVKyw7PvOFl16FpFBfIU6zehdhYQYNkhVSvM2NFdYc8M52mTvJcj3i4H1zPjCsABUmvgzpW=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11241.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "82",
+      "name": "ASSADISSA",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11242.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "83",
+      "name": "ASSABIAA AFLAM",
+      "logo": "https://tlfaz.com/wp-content/uploads/2023/02/Aflam-Tv.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11243.ts",
+      "country": "المغرب",
+      "genre": "أفلام"
+    },
+    {
+      "id": "84",
+      "name": "TAMAZIGHT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tamazight-tv-chaine.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11244.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+        {
+      "id": "85",
+      "name": "MBC 5",
+      "logo": "https://yt3.googleusercontent.com/iHxDHMQ8LDjsts3G1TA7CLuGYRg2Yb5NI9MlxD-aR75TuYSUYxiMh-KbBk8WdqWfMbIzkMpa=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11245.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "86",
+      "name": "MEDI1TV ARABIC",
+      "logo": "https://yt3.googleusercontent.com/OvZU7YJbO_n-PGZasxx6h5_VJVANB03DYnH9O80lWpi0cS6B6U54m7FUierz3Vvi2nJO9Obi=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11246.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "87",
+      "name": "MEDI1TV MAGHREB",
+      "logo": "https://yt3.googleusercontent.com/OvZU7YJbO_n-PGZasxx6h5_VJVANB03DYnH9O80lWpi0cS6B6U54m7FUierz3Vvi2nJO9Obi=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11247.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "88",
+      "name": "CHADA TV",
+      "logo": "https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11248.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "89",
+      "name": "TELE MAROC",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kuxkrfYt58ZKWUL3ChxbDHvI26FOZ_xD0-ZxvtCSyJdGw=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11249.ts",
+      "country": "المغرب",
+      "genre": "عامة"
+    },
+    {
+      "id": "90",
+      "name": "M24 MAROC",
+      "logo": "https://play-lh.googleusercontent.com/eodXG9tz4Vd7eFUGOizpc-pScFCjXbAiL5s1kr5_5AmQaxyU5f4GECYk10oFfnRc0tI=w600-h300-pc0xffffff-pd",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/11250.ts",
+      "country": "المغرب",
+      "genre": "أخبار"
+    },
+        {
+      "id": "98",
+      "name": "M6",
+      "logo": "https://dirigeants-entreprise.com/content/uploads/M6.png",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13049.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "99",
+      "name": "RTS DEUX",
+      "logo": "https://yt3.googleusercontent.com/smtjyokUoYxHoThkSwW10y9m49zcipO-WVZNOoqo8VWsPXIAOg-UFRev359YLFFPPpMJ_Mv5Hg=s900-c-k-c0x00ffffff-no-rj",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13050.ts",
+      "country": "سويسرا",
+      "genre": "عامة"
+    },
+    {
+      "id": "100",
+      "name": "6TER",
+      "logo": "https://images-fio.6play.fr/v2/images/4266029/raw?auto=avif&blur=0&fit=scale_crop&height=630&interlace=1&optimize=high&width=1200&hash=13c81cfc6ff424dacae11a9c6635b05cbdbd3141",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13051.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "101",
+      "name": "W9",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQi0TRLXo_3ymZSlPU464m0KN-CzEjezk5bHzq2YZvuQ&s=10",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13052.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "102",
+      "name": "PARIS PREMIERE",
+      "logo": "https://pbs.twimg.com/profile_images/1224262987030188032/QX86w5G0_400x400.jpg",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13053.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "103",
+      "name": "TV BREIZH",
+      "logo": "https://www.tv-direct.fr/wp-content/uploads/2024/08/cstar-696x392.jpg",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13054.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "104",
+      "name": "CSTAR",
+      "logo": "https://www.tv-direct.fr/wp-content/uploads/2024/08/cstar-696x392.jpg",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13055.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
+    },
+    {
+      "id": "105",
+      "name": "NRJ12",
+      "logo": "",
+      "stream": "http://freeiptv.ottc.xyz/live/450874667069/482156802479/13056.ts",
+      "country": "فرنسا",
+      "genre": "عامة"
     }
   ]
 }
