@@ -32,7 +32,6 @@ http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/279612640.ts
 http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/279612641.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS MAX 4 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FfgMbJCC4gWN8FS1PsjJAV2vyPAOoWvXwiEVr5AkBgn7qcFZCDK4y6" group-title="AR | BEIN SPORTS PREMIUM",AR | BEIN-SPORTS MAX 4 [720p]
 http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/279612642.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS [480p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FQmKYAoD29Mi7xCAFKps9DzVyW8oZEaZplUq6Z%2BJ6GmYQLDAjmf6ee" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS [480p]
 http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/12012.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS NEWS [480p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BEYUxfjJHt91K2OVlbdQZptGD3yN2aJh2jn1DZXueVZU7TKacBdI0e" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS NEWS [480p]
@@ -95,3 +94,417 @@ http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11937.ts
 http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/12015.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 [480p] [BK1]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FjtaG5Iogq3HLC04dtzfiOdfP2qirjfcwi5uPO0nON5F%2BNI%2FoFj9xU" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS MAX 6 [480p] [BK1]
 http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/12014.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| StarzPlay /AD PREMIER 1 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX193ZvmTLmDnQ2xYNhV%2BrNhd7DHABD71n%2F5sSt7J4PIFHxSAtWC8GKUu" group-title="AR | ARAB SPORT",AR-SP| StarzPlay /AD PREMIER 1 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10158.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| StarzPlay /AD PREMIER 2 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BWFUf6pJV9BZw9Kp9cIFg0QL1SDBUJmBXVyu0PiuETsMztnT3qSb%2Bv" group-title="AR | ARAB SPORT",AR-SP| StarzPlay /AD PREMIER 2 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10157.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| StarzPlay /AD PREMIER 3 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19blbLeF1GlOHvK5L8LMdRls7zT1qle0eFf0vbOu0tDTIM32PjsyHfg" group-title="AR | ARAB SPORT",AR-SP| StarzPlay /AD PREMIER 3 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10156.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| StarzPlay / AD SPORTS 1 +" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1971bqgHgdi6NNaRluiLgyKsT1O53kRN0CH3PG8zLwgFjyUuDxihbkA" group-title="AR | ARAB SPORT",AR-SP| StarzPlay / AD SPORTS 1 +
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10155.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| StarzPlay / AD SPORTS 2 +" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18yRob%2BuaDQ2EG2XsQGbo43t9jF9ENKI5ug9VoF%2BDzJwHbwrJMHo0Tz" group-title="AR | ARAB SPORT",AR-SP| StarzPlay / AD SPORTS 2 +
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10154.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18NNJDpFxIoSJCSlhFT5%2FEO1nYKGNOaMTvpoi%2FTvZFEtNBzOzvuvjBaODNI4HT1az7wrdpzFSGNkA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10118.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX191GDhLlIOhi%2BWjj%2FeomJBSbbjaNT3CCYco251nXdaWbWu5atUnsP%2F4oMF7qWJhjeiT0IzHCUJ9QA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10117.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19wRonCiDLV86JQIhvxdTGc6Niwy92h0R6wV98VF6EHO7rigiu7irV1Oo1hfP93GhA1BGAX2t4JxA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10116.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA KSA SPORTS 4 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18bHWDvFc%2Fr9m%2FlhTCWI1V3h4vKPKYIiX77N%2F77dXriA0b8N0t4gE8ONNSJ6Cv6AIVRjkK3Mo1IcA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA KSA SPORTS 4 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10115.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 1 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19DUl3kcxTnLzovAmWqkihp61XXgoAcJUcTS5W7i%2B5wMO9VSU16fg%2Bz1ov9NAp0vNByIsCFLQpFIQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 1 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10153.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 1 [1080p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FMlUSdpW8IjVU8lgG%2BSECji4s5MHkWulGp2CjvK7C8FyKWgZrOmMuaNCC0snYjw4tx2f1uumRkKA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 1 [1080p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10147.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Ff6F4ge%2BKFwaA8vPjldArKs4%2FPcFxzynFu%2FuRjSbOzhlHF78RIYZNkBGO3%2FjgTTG5ReA0frP6wBA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10151.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 1 [720p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Bf22dFrhITXRwDd5e32fQ%2BCBM50D55LSjU9XHXjHZR4d251NmxvSJP9zRoLBLXcB8vm1NZ6VHaOA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 1 [720p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10144.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 2 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18L34gB9coaqJ%2FdMVcnLxSIq%2BvSRotCPv1AXePqBgeeUGJVy%2BYz9r4FeGlBouXwgKFPBtQQkZuKPA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 2 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10152.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 2 [1080p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19P8EADQZYi64AYMMHmwxSrE4dCGPdI1JZ6pFfdrGn6NkROC0n6HmF39zYG9ieODWfN9f3k8zhh1Q%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 2 [1080p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10146.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ld5hFmh73EneWKyqFdJKSOaURErcktNsnHZEDZrn9AAIee1APn3IreM7PIqEFymNUSr%2F%2FqrtFAA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10150.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 2 [720p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Bn37JZY0gmiM8yRclZ8r4eVNbIHLOjzNK476Dg%2BZPsWBmpTHYLplz8JShmFM2F7L%2Fq9ZuDmcC5ew%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 2 [720p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10143.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 3 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18zvffeJt99Uuey6lKxLwtWWFgJTLB7ZVSrR4sITsNCwPLNZTK4j5WdXlZr%2Fy2o8sTwCpVaJXck7Q%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 3 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10149.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 3 [1080p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19V%2F8qNqjjGG6fuVnEW22Q%2ByAH2FfKwmcMDf%2Bc%2F%2FWb%2F9SK8HIQzWo7%2F6fvWufOtuTOZAerMZouGNA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 3 [1080p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10145.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19L8fHKlJ0BYLod%2F6w6stAJqvhvhqRYaD0I7KdVDJs3%2BIrG8ezn3ti7Bb%2F%2BeYGe01Vh%2BeT9fZ3zFA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10148.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA THMANYAH 3 [720p] [BK]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18bLd5TKLXNNfr6JJnUH8WpuPO3rZckrHT7NmXFjcHMCdRth2zug%2BnjLv4i44phRyAKvzMYkDMmog%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KSA THMANYAH 3 [720p] [BK]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10142.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 1 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fl391%2BwO85w98FdDjDtaE1sKcm4KpG6MwC7xJ5t9t3UKLojUsvRfKG" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 1 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10184.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FkKO0Iun8OmRcY6h0Hbdc5jWlOvPnu5uwPN0cdu%2FiGvlIb6JsHkVd5Vn3Z%2FVwDQOQsHlJhlSX1Dg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10114.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 2 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18xqxkdRQlLRqFWli5Q0dLejGLe4SpFcnqiWEq66rNutBSZcZfwHqMp" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 2 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10183.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FsoMyCa%2BlEm0jUyWiP4gxQS3ggCKPLr7ypQymOGKlIh7Di16aTllmIpoEX7aNKCVGj7AL2UvaKHQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10113.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 3 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18zglxeiKgWsfQMWaLmJ6NJTQCMp4LuxijYs8L7oGuSgmu0fPMR8N9e" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 3 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10182.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FQSl4meAHk5IF%2FBLrxPFYk%2BAMHc%2FBiijZMyF%2FL1%2Fu1j4TMabV9f0z06XJgfhSzVQDouOtXfZTLhA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10112.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 4 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FtanaAdIXIa5WIXbR9tcRH%2FF4NJZdEF4s8g9avGnVWo8QiPs%2Fm%2BnB6" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 4 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10181.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 4 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F20k4viXINLW5LGXnvrBujgCJMdVCnMGkN63jScyU1DiIYMgSb7v65m4KbyVzAlmHUilrX382ERg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 4 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10111.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 5 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX184F4og3KChWAqiLtSU0ihP9Pf9UeXCc4Hs2oMqsmtFviKgtsAI4rzD" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 5 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10180.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ART ALKASS 5 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18jOe85EBfckJnTHDzCgqWTAUa0aP7Suy%2BStNkOn%2FdS7vu1L6sR5D%2FYDc0lXSVZUDbX8lxv2rITFg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| ART ALKASS 5 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10110.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ShaHid 1 Evnet" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F8tRolvSOG39Tsqu4A0slqMm51%2BqPlnzrxtAHs%2Fjsmelfei8%2FoE%2BXr" group-title="AR | ARAB SPORT",AR-SP| ShaHid 1 Evnet
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10171.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ShaHid 2  Evnet" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19wmTF%2BfUhLYCZ%2Ft9WJF08OjelJUyXW9ZOKo6foEsadtAvX4LRCFoXZ" group-title="AR | ARAB SPORT",AR-SP| ShaHid 2  Evnet
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10170.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| ShaHid 3  Evnet" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B4Z%2BePPS3CqKavXgHGsfQHBhpcVd5Mg3RJ94ofqwIVPXRrrf1oTbKL" group-title="AR | ARAB SPORT",AR-SP| ShaHid 3  Evnet
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10169.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19I7Fg%2FtimKgf%2FFbKzjJnzD0CEh8lcyb7ccfw97TiD9a21LIdL%2FyTCU" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10168.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FvLWQRRXuNQn92YOLi%2Fiz7H04pgonnk4dcucQuPPXvbvT%2Fp1%2FhDOXj" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10167.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 3" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BeyArJe9zfImS87lFQW1vjccQzYmhF%2BViE3HLRLVBLTYLXhGzIa0p0" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 3
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10166.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 4" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F6Pev0Vrmak82VNRGl62DmM0G5ufyHiTxN4BsteqGG1PPmL6YINfpc" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 4
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10165.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 5" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18z%2F3eJSqHDUi4dWcDi%2F91ZJ%2Ftuzs1oKC1IesRsPl0cUtShTp1ZLztL" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 5
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10164.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 6" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FJ9wi7qcUpspaRRzsoClJcldwIIoW33G%2BE0m8rUAbJKG3GW9DNl21H" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 6
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10163.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 7" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FbAVE3unOEVUk0Rl59qOmmi5aus5696rsEO7Zw4IvuQwOCD%2FCGgi%2BX" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 7
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10162.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 8" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BmL3dlUX8AYxmujms55ZYSGMV3r%2BpVj6gZ1UT%2FUMMFIkmfRxNGsIdL" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 8
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10161.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 9" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19xinIUCBBa5jBLZ3JCSGJ2hV68Kbvu%2FPK4trsBfRLoSjmUVTsF6bIs" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 9
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10160.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BUNDESLIGA SHAHID 10" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BMJrXscg4a%2FDybncbkktGsJlSjpeFpFMYgFYSxrQgXQLI7bQpChDI4" group-title="AR | ARAB SPORT",AR-SP| BUNDESLIGA SHAHID 10
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10159.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| MA ARRYADIA [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F0hFgbNrVuDdf28VhF6Kjq8Q3UUWcXV3mhAXOvUzwcGccg3vjeEn3TVwgoo%2FYz1Uo6EXSeU87ALg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10109.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| MA ARRYADIA [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BJmtsaBC1iGPQPlHY7PGeYQz1F%2BVgsXfEPy6E6N84d4zczcjaZ8TUQQVU936BqHdWkN0JVjemFbg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10108.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| MA ARRYADIA HD1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1838qEDRUFVuSMMhbbGwyg%2FUWw6ItgH4Mvgr1XZ8MzojbXiGU4icLID1cBuv6tA9ikbfT9pAnXvgQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA HD1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/448660786.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| MA ARRYADIA HD2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18RLrw0Kg%2FOOLQiFNJMprHPwvcc576xAtOKEBQrdG1DA1p2plyPwWuimlecQzGyRiOVD6sdO3xtsw%3D%3D" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA HD2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/448660787.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| MA ARRYADIA HD3" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fd42zuSw0%2FflM33R%2FY7fTRwYCCR2By%2FrWHhuqjyhHUA6L8i6qs3H3EbfOpUDbFnWZ3NrN3RySMFQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| MA ARRYADIA HD3
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/448660788.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DZ EL HEDDAF [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX185tGfT9SM5fyJSSKXVblw%2FKF5N%2B6lhsd%2BeA4ShhAIC0mfd33zzAt98rk3BQE0Obq6v%2FHKumdVzZQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| DZ EL HEDDAF [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10107.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| LBY LIBYA SPORT CHANNEL" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FMKaNpkxaXf%2BLNdqE0Z2eA35kjVcqNfumU43hEjJKDqADsVMjYz5pw" group-title="AR | ARAB SPORT",AR-SP| LBY LIBYA SPORT CHANNEL
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10106.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY TIME SPORTS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FD7FBh186mOnErw6WJzmuayvk%2F8wDL%2B3XyFvvmu70VHorSWai8dcpf" group-title="AR | ARAB SPORT",AR-SP| EGY TIME SPORTS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10105.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ONTIME SPORTS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BpXylySFesQI7nOoEoBvc4QW3gM58cQ7TJQemYEhNYxDKNO2pZ0eiP" group-title="AR | ARAB SPORT",AR-SP| EGY ONTIME SPORTS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10104.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| EGY ON TV SPORT [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19Vbaz%2BCS7NW0Pmxq2QqU20N8AZKst3KONBranE5rAkgU05FWEeMpTm" group-title="AR | ARAB SPORT",AR-SP| EGY ON TV SPORT [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10103.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| PALES PALESTINE SPORT" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18BwU4BoW3FdHPmFwVe%2FxDTLayNVJY2yB9JQDujk0Am5JH9BJCxxcgYosh6tN8pnytTSTCCj5BMEA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| PALES PALESTINE SPORT
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10102.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| JOR JORDAN SPORT [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B5EOIpHrpmXt0FasD3pC4kg0py%2BOudBAta8DYts1DLlCPP3Til0%2F8W" group-title="AR | ARAB SPORT",AR-SP| JOR JORDAN SPORT [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10101.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18dJjwu4ZvJoe4wfsS43q5tEyYg344WVXcQPBO6A2t0Dq5d%2BCpg33ftaSLa9JsUfMYN%2FsyWmrwk7Q%3D%3D" group-title="AR | ARAB SPORT",AR-SP| KUW KTV SPORT [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10100.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KUW KTV SPORT PLUS" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BDSHkcZ9vILWmhSQ9C6KxsRnrMG%2FwwgZosz9SP8YI%2B7vIQsWYPRk7Z" group-title="AR | ARAB SPORT",AR-SP| KUW KTV SPORT PLUS
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10099.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BmrxPMzvuM7wdp%2FVuFDP8NjYNq%2BWcTJaMyU0iCky9itGulF5kzz5Awe6IlefgJjFTpeSUrMBLGHg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10098.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| BAHR BAHRAIN SPORTS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FrrwY3zHfM4hC3zdPZICs6ayi22Xbn%2BfRDZYF%2Bftw57xYKOX62HDu0rOja%2Fre%2F0wg%2BrZOw2kesPA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| BAHR BAHRAIN SPORTS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10097.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| OMAN OMAN SPORT  [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18XMnIzNccypS5Cfxvc6%2Ft62lbUhORGJOe9Zl6Wst94Hka0SKGvr8mvVUlrnhOq9P7nQim3c3%2BPNg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| OMAN OMAN SPORT  [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10096.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19zqwCmOxplGW6CWTqs6hDLV5oEsx%2BfbC3Gt5NlGOHdV5VfwVdLqXKui5%2BEZewuLtgJIQQKBqBfSA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10095.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19L%2B%2BVaPLCT3HiyyyLTzhVY2dAMQxA2T4eyrQO0ws0urHuK6hNSXsvX" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10094.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS 1 [480p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BWrSxPnOMGRS4bEK5McsgNDHIsp4mTFv9r29swtU9LEnIQ%2FtTwiqS1" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 1 [480p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10093.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS 2 [480p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FyXuorVerD1TYgwYQm5vyZRP4XhzclQsUnuN%2FPRvWwZm9ukU87yHT5" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS 2 [480p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10092.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS ASIA 1 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FZD2qdomzPK%2BGyo0A%2FFnWaiA%2F8J3n%2BuaxF1KCvIdHbkbfkgDgaJS5E" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS ASIA 1 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10083.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AD SPORTS ASIA 2 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BLM%2BF0NSV5YK%2BPTbDoaN0KcKnXGOfR2EWNQ7T4W3xtaGQ1ECOzbvlo" group-title="AR | ARAB SPORT",AR-SP| UAE AD SPORTS ASIA 2 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10082.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE AL SHARJAH SPORT [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX182KpIgr9gqkzGrgdATb6aLIh2MNRuIxK4aQ5cPwiVSdOmCE68DEea7Pa%2FwBbkrKMIK70Bb5zaFNQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE AL SHARJAH SPORT [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10091.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI SPORT 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BRnPuasY8XnW6bPWr0wBs0%2FYfaTQwSP6ygrWJTNZtdYflY%2FbxwC32WaKlfvayEBe0k4g5PzeOqsQ%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10090.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI SPORT 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BXEnWAAMLVoosb9mUiyAgLr%2BY6ZPojJXqTnPuyhQqUQdGlIbFTt1AKQ%2F%2F1wxwqVPtX93JcAwmOOg%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10089.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI SPORT 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Ff%2FYDeYZqCVRhz%2BTaYkhbGFGw73HiOrfTSsDUN9Gr8l7i8qlUdQmkjiyu5Kfc7UpB1C8WSDyT6OA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI SPORT 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10088.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI RACING 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19oHdhe50l0FGFbF9frhDePTQyqc8I6Blxb0fGLIsvJT1F9ULFxBTcZ" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10087.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI RACING 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FNzFxFRJnJPl%2BWs6avmwuefwjX3okizPM6zjPkCQ%2FqMKDiWg4RoND8" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10086.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE DUBAI RACING 3" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18NRW6d3pmX10ajN3dvz2di7OtDVHIMIIQ6IGFDrHC2GMyT%2BQQxnvA3" group-title="AR | ARAB SPORT",AR-SP| UAE DUBAI RACING 3
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10085.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| UAE YAS SPORTS [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BMFqhpetEl3jZVLvwLaQdB9ClygJ%2FDfEFDVPRwILJnC0D87a4xqfegSRMjjiekwQbYXKp%2BElEVmA%3D%3D" group-title="AR | ARAB SPORT",AR-SP| UAE YAS SPORTS [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10084.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SERIE A ARABIC 1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19bUoimM0x47TAXP4Xt3kpD4c4HvfIhCJGEhtTNIC4%2Fmb7zwHMRjmRJ" group-title="AR | ARAB SPORT",AR-SP| SERIE A ARABIC 1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10179.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SERIE A ARABIC 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19gT7hPZ7j3hgFpMDgM8EbCadFvjJteizkeF0CCYrVrn5ks0DbcDMGC" group-title="AR | ARAB SPORT",AR-SP| SERIE A ARABIC 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10178.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SERIE A ARABIC 3" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BUGGNfEYMTELn%2BctL%2FEZ6KKriPBxgJ4Q2qntfXfcE2Mdtq60kh%2F5NY" group-title="AR | ARAB SPORT",AR-SP| SERIE A ARABIC 3
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10177.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SHASHA 1 SERIE A" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18bw5lskmhbHlAF%2BM%2BZdTVdqIphLN%2BN0PSDpVvCe3mODYdU4d6mIiEN" group-title="AR | ARAB SPORT",AR-SP| SHASHA 1 SERIE A
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10176.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SHASHA 1 SERIE A [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX196CvBHkNvqGnOmw40XDA9S%2FAPa71OCVIY716AKchFu%2FHs3xyjOwHZ7" group-title="AR | ARAB SPORT",AR-SP| SHASHA 1 SERIE A [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10175.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SHASHA 2 SERIE A" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fy0bxdyZsfBzMdd2OxVAIs9pjShYMOZXyW8KhexIYW2gAyGuVD6BFV" group-title="AR | ARAB SPORT",AR-SP| SHASHA 2 SERIE A
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10174.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SHASHA 2 SERIE A [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18Z8xK%2FdyJkT6MDXt9Gvxu%2BovT5ciWeMz7LP%2B35w%2BrvDSIel8hR4PBv" group-title="AR | ARAB SPORT",AR-SP| SHASHA 2 SERIE A [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10173.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| SHASHA 3 SERIE A" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BXRRAByQ6T6hT0BfaCF49qgk6InlKg57p49m7b3exJkjxOz58%2Bv4PD" group-title="AR | ARAB SPORT",AR-SP| SHASHA 3 SERIE A
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10172.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶ AR-SP| DAZN ✶⋆✶ " tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19Lr7ei7aSu60tO4jFtUXjOcDp718UoUMxPv5WPxmEgzgb7hepjk6Wh" group-title="AR | ARAB SPORT",✶⋆✶ AR-SP| DAZN ✶⋆✶ 
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10141.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 01 TOD" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX187VGz3lET6iEVpHKw2jxUpdaHuvAwGitQxLKkINNwkrn8kFerFAwfF" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 01 TOD
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10140.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 01 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19lH9HIT%2Fv3I4yfjeo2DAeasfMjOTqcByBfz%2Fl3N1AyEJcW2c1y6Q9e" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 01 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10139.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 02 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FDXGq8fnDbb6O8OHrY21uK%2F7BNmT2mXJfE%2BSwYCO0NEHJ6qznbWZ1S" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 02 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10138.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 03 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fg7KR9GjGUla6L%2BF%2BRFBR2im0WABmp4UO6FMdrzvrf67pkW3BnzAMA" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 03 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10137.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 04 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19ek6pzvx8oiuH%2FPxiGTnC4OOnzFTc98TJitOYUDzz1Z8RGGm%2BeSeAa" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 04 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10136.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 05 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F%2FDHGg%2BSJZKjggHYm0cl9uX%2BHPLNP4ZbEzmm4KHtrrXe1vk9oP%2BTr3" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 05 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10135.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 06 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19C6%2FOOChXCNgxORYDmP%2FFg3ubNYSfJYCj0b7VH%2BIApWQhwcY1SDFZY" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 06 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10134.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 07 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Bf%2Fr8JjFfJBkx04azeDftl%2F3WoVUawqtcCQ6dwQWU9Y650K9kxdy4E" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 07 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10133.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 08 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B%2FUmtYcYbf84UwVnaBy9ZPoRcnegVHZ%2FG91g0TUYaYHYxPRCGThKuX" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 08 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10132.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 09 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19LJNkm2D50u4RXHQ%2F9%2FoielzbKNwiMndVyMczFM6zCrt4PdKsEFo7m" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 09 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10131.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 10 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18h%2Bk1r7%2Fjy3NMBbJn7%2FM%2FfNQWtaIzo6XmlWdngmI597HKyVxUJHwUX" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 10 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10130.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 11 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FSW0%2FBxozv%2FxDDfY1Oz2F0Jbx8r7Ok%2Fh6TuoNuEkg0ppAv%2FBCY3s45" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 11 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10129.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 12 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19a0uzPo8C%2FWYC0wHGMNBTNdSNqsuwN3X97QEyqD2XvfI2TXy1lOahD" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 12 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10128.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 13 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18kc%2BKHfJM9l7QgNUgwwXnA5bH9kj%2FeiIBZ0ZlLBrczOnPruLI0Hay6" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 13 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10127.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 14 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18cwqKDZHjrXnPnfAv4ORXu57q%2FYlX7mHEsTcVkaXzH6GcMZZCdg7nP" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 14 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10126.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 15 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX186caXMEURRDFy3KPfNtTk5ALgU3TS0D6ErceDz8jCWrzWWZFeuprxZ" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 15 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10125.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 16 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Bo6gUDxda2IPklbcck%2BgCBkYRVK%2B5LMUCvYQulpKOvvT2iOjd2K2ZA" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 16 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10124.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 17 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18JIdVsraGLUaTUpWLDOivTdbi6yztiHfcq7w0seomeZ%2FL3hTxC%2FhzC" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 17 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10123.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 18 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FrRkcX2M1KdcCEr8593GVvP%2Bb9L%2FQQXkU53KmoLm5Mhpio7RYL04nO" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 18 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10122.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 19 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX190ei4wccHVTmuFfkb0h8aHuOQfVBcC70uvCdZG05zaF5tWf9oNA6dv" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 19 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10121.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| DAZN EVENT 20 [EVENT ONLY]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX187lYU99kvINYYb%2FeU%2BEvymYe%2BRpFVAOYqlglc3fRZM9lzCWhIqya%2Fs" group-title="AR | ARAB SPORT",AR-SP| DAZN EVENT 20 [EVENT ONLY]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10120.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ART AFLAM 1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19ZppzwlT58xTwa0Yi%2B1t4EUuBOPVPd0xqtvdm3QCh%2BSjWWEdt0IkrWr6wF6yiLEryaugh0ssSOaw%3D%3D" group-title="AR | ART / TOD",ART| ART AFLAM 1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10392.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ART AFLAM 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fl8fTNln2iHky7ROLy%2Fzh75hvB8SwSvZOtkMVkX3%2BnVbC0CobsDY1i33X0iZB2Az0uxXy%2FY8Z%2BNA%3D%3D" group-title="AR | ART / TOD",ART| ART AFLAM 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ART CINEMA [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18xthw935tun5Ryzu74NUVVYiCqc4h4XWSKvSmtOHoZWfkFCC5bcgin" group-title="AR | ART / TOD",ART| ART CINEMA [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ART HEKAYAT 1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18zrHMv17i0WxbVbo01mNtRFkAqZoKgKaiG58kkpvSopx%2FNWRSD%2FkZP" group-title="AR | ART / TOD",ART| ART HEKAYAT 1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ART HEKAYAT 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19nrMd7DmqpwdQt5PIOBeafhgYs4zsXgVyWDZ9FLKhYwR%2BW5PCvBJyzh8qaCJ3ExBqCtq3oONDcsQ%3D%3D" group-title="AR | ART / TOD",ART| ART HEKAYAT 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 1 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FNDPqCgr%2F7FuZiUDz9lEFUT7NJionHHHB94eVhC3tXUtloSSyTrEhK" group-title="AR | ART / TOD",ART| ALKASS 1 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10422.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19bkaNcIuejblNfXTJMrQImup8t4gPGge0G%2BvSZutYpCO5oCx3Xp0ai" group-title="AR | ART / TOD",ART| ALKASS 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10393.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 2 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fy2tpZUWXKQFpIT37BPCrdN7Syk58s0y6ox9iJGvbuS9azgLzT8rel" group-title="AR | ART / TOD",ART| ALKASS 2 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B5z5T5kyxuXJcUWv4KPoJItxTDZHOIfBTNDsvgcqeDfN7PKBE0CXms" group-title="AR | ART / TOD",ART| ALKASS 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 3 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B6jG829o%2B7otPOK7tqdH5j7%2FVBcU0dGoijctLZ%2BnKQXCdpMzvzmkve" group-title="AR | ART / TOD",ART| ALKASS 3 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B0RZRB6Wv987jU3O4orrGlhaqQvWlRnZZvFrqt5o0bVDYNeBu%2BMJ0n" group-title="AR | ART / TOD",ART| ALKASS 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10398.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 4 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX194uDQssg41eXakVMrdvNEx2VvUXJyy3Uifer3eiBtOipdH2xleyblc" group-title="AR | ART / TOD",ART| ALKASS 4 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 4 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX199BM8hyVGtCkNssyov%2Fmv0uaT8I08%2BVXdFsH%2F69b8dRUzSNyXb%2Bhol" group-title="AR | ART / TOD",ART| ALKASS 4 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10395.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 5 [4K RES]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FpCAyqU8pYDYqubVIbN7BvSf2vJ36kATpP5S8zLkgnhvcSMKuVt4aq" group-title="AR | ART / TOD",ART| ALKASS 5 [4K RES]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART| ALKASS 5 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19TUPpgDx%2BGZCKMuPMzmkNPEkYNgxI8hvxxgqcH2q9yoFMI1%2BIP%2BjrB" group-title="AR | ART / TOD",ART| ALKASS 5 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10397.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD UNA [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19WIgcXwpCOSJ21kZJayL%2BYGrPj0ctJVuEi3l%2FXM5JDI22DE9YAsrbr" group-title="AR | ART / TOD",TOD| TOD UNA [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10417.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DOS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19vtDquW%2FOF8xMsT%2FXoHABILnZQCdfZKVHpVclH7v7%2B9DhFPlDxJgeh" group-title="AR | ART / TOD",TOD| TOD DOS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10416.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD TRES [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18MnWTbfyQf6V%2B7%2F7yTAR9Mft2RUEO7%2BP8QikF3Pxukv2Zej3pBtjhe" group-title="AR | ART / TOD",TOD| TOD TRES [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10415.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD CUATRO [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BPEWcHKtg47ZnrxDiQLesoZfeVsEGQQeDjdV%2BDsbZO%2BQW2qCmYHHeV" group-title="AR | ART / TOD",TOD| TOD CUATRO [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10414.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD CINCO [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ZycQM%2FCmAfzK72YXhHlG1n58P8sGEbpX59XqUAHPIl1dABoSJEfRd" group-title="AR | ART / TOD",TOD| TOD CINCO [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10413.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD SEIS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FnUoVl5oDiDKmuOqltyIn3fIRZNaEHHbGl6qxrBWpZz6shkFRiC7hC" group-title="AR | ART / TOD",TOD| TOD SEIS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10412.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD SIETE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FswHCUlDR3OGbikmAyLnN1vwaEmSJKw%2FJg9W%2BZJ1fAtG3ya7fM522S" group-title="AR | ART / TOD",TOD| TOD SIETE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10411.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD OCHO [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19PM63IPSZnyHh%2FSvDMk3xHZ0xlgNqglHF%2FpSuNlRRTCOmgM2UqHQ%2Bv" group-title="AR | ART / TOD",TOD| TOD OCHO [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10410.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD NUEVE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1837Yym08frNTozWNj9Oi3TXcsfcX%2BaUsNVzcoKK5gLpk%2FUoj7Y6RTj" group-title="AR | ART / TOD",TOD| TOD NUEVE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10409.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DIEZ [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18ix1cmZZAM1v7MHcp5AdtNxkA1k6WwJ5JoH6zssZs7NW1Ja6bNCamT" group-title="AR | ART / TOD",TOD| TOD DIEZ [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10408.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD ONCE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BDrJrt53MjozkYQS%2FyY5ZDz3wSaRMvKyCnM29smA%2BkXb8%2FYpHMqFrH" group-title="AR | ART / TOD",TOD| TOD ONCE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10407.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DOCE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18lBWq%2FnwJlUFuMLyhgkceEQg6yghWoIF2gtCOM%2By8tWDjSTJa8SCAN" group-title="AR | ART / TOD",TOD| TOD DOCE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10406.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD TRECE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FfrhSMUnmdNhzdcTEV75dRNyiPnDLrRDGUCcpfcXiJ1QxFCnalVDpc" group-title="AR | ART / TOD",TOD| TOD TRECE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10405.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD CATORCE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19d3tb2SJ27F0rWeaamf6lgF8DfrXIknCLmKIk2MGdfjNgRVBZF%2FWQY" group-title="AR | ART / TOD",TOD| TOD CATORCE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10404.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD QUINCE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B8L3krHdjn0%2FdcPI3zIvNl4LEygPJEEEmgkZbirGtXK7%2BeF9o4ifS0" group-title="AR | ART / TOD",TOD| TOD QUINCE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DIECISÉIS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BOdnDR0Wj2tjjg33LQJT8Ir3TqFDOmxl3OVVd3Mk1b%2FkUASIHAg77a" group-title="AR | ART / TOD",TOD| TOD DIECISÉIS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10402.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DIECISIETE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18iSpHibZ4rx7iC9p7m8s6k0EIRDVsRg3vSmInGY2gzMXvi1b61kcX2" group-title="AR | ART / TOD",TOD| TOD DIECISIETE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10401.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOD| TOD DIECIOCHO [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fndpmqn%2BALr8mm2szhjuYJDnZaCahU18x8%2FqnvVoiwIV3fj9890w0p" group-title="AR | ART / TOD",TOD| TOD DIECIOCHO [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10400.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶ |BAHR| BAHRAIN ✶⋆✶" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18fN4jw%2FWLNBH420DxhuEArQuSfi6vN6JOPSYHSs0oCLrFyMKj4rwnfZj9bKQ5sqtQlELMIHsKzEg%3D%3D" group-title="AR | BAHRAIN",✶⋆✶ |BAHR| BAHRAIN ✶⋆✶
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11785.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| AL MAAREF" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19b%2BLfb50XoQ2FLaWBsExbUS%2FWt%2BQGbIGuiuipsQn1ygCwQtfhqXtrN" group-title="AR | BAHRAIN",BAHR| AL MAAREF
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11780.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN INTERNATIONAL [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19YanygkAThg1TLoIHq1yzs0iO5O52EraD0bajKR2WOSlVl%2FDBFEGwi" group-title="AR | BAHRAIN",BAHR| BAHRAIN INTERNATIONAL [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11779.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN INTERNATIONAL [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BAY65QvfdLZ65637DRoHHhTczvx%2BXEhhqIk0A4Y4VdSI777UQhQqcw" group-title="AR | BAHRAIN",BAHR| BAHRAIN INTERNATIONAL [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11781.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 1 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18p8ZYDC7g8fhAov6M8GczdgSH3wZjWNdOpbsso6pLaxT%2BhUIwAox%2Bb" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 1 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11784.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 1 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19qwNx%2Fj2eY8FOnelN%2B1XSRLICdT0mso4wI6JHMsS6gNV6kuzTwsycj" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 1 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11775.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 2 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19JXvG63eXwLQSZJV3sqMiZsWlyGuTMcNlCOgoQbsSAnv1bT8G7XpTNZoHZBxQY4eFRWoNHs%2Fx%2FSg%3D%3D" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 2 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11783.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 2 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18AqoO2u7y%2F9cwvwEoifY101IrNm7nQdoaOCr9smaPzhp6%2FImxj%2FSXTOWUoLDW8GkYfdyEOMbfM1A%3D%3D" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 2 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11778.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN TV [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F%2B%2F47aeWXrmMr9NCXDfik14FXEYQLd90nkhgFmVf5J0Dvt0s1qAfYL4uH9aIWZIJpSJnKFYLPa8w%3D%3D" group-title="AR | BAHRAIN",BAHR| BAHRAIN TV [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11777.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN TV [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX192%2Bs56DlXct%2F5W50kiE35gzIq3V96AXtWqfTTxBn8EWuVv13XnUJAm3CkBdhFpf%2BWFqZVQTkWZ0A%3D%3D" group-title="AR | BAHRAIN",BAHR| BAHRAIN TV [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/11782.ts
+#EXTINF:-1 tvg-id="" tvg-name="✶⋆✶ CINEMA ✶⋆✶" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FBqexDUeOMNWjQ%2BeTmTntz8KpGIRIqp0n9O6K8HHHry7nBKtCpVORy" group-title="AR | BEIN ENTERTAINMENT",✶⋆✶ CINEMA ✶⋆✶
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10246.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 1 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FHuDMnu8APej%2Boo3w%2BpYG6SEXFZ%2FPEETv%2BakgFW5eAKu0uRBsJsL49yW6oU8Tcof0erZVTaHP7Sg%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 1 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10235.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 1 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19n8DIjCaRvZkA619Ha%2BXFqxMzr50oQTgbICjH5876afAdDISNWjgUVmusyv6GglIoFf%2FnvuMUWqQ%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 1 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10289.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19qNUqWTqnoyMjnfMlA8rJFn%2FTkIJFN1wQkvJjz2trVfIIF238hGPbQnUeLs0%2BfD%2FVgsDj4d%2Bi5sQ%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10234.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 2 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Bfng7kPm67v0SMRRzpl3kscMkpMwTknWjbrxaJkW2bHSqKpsCAG7olgDPOLZoW7LwSMVxx47Zs5A%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 2 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10288.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 3 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19isSD8eH1mpB4CXCR4LF74AgbKdKEmQdBlmAaDW4%2Bqm%2FWW22POwPmL" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 3 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10233.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 3 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BWzl2%2FfbXhzMBbPuD9Q977d8FEIcyw8F1ejhL%2BLxDzTKajzTnzC4cu" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 3 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10287.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 4 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F0tjMyjm78%2Fp%2FU00G4bh%2FhfVSrZE3XdwXMOsxPuVaeMT8hOhH9VT0dr9fiuFfx5M%2ByGrQxt2SCvg%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 4 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10232.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 4 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FJ0CxdwST0oCPDE06Mi4d0J5FQVGeYjMfeo%2F7kkY4No91rQ7JL77CdBuuHhpQchIgjqXbwZQ1MSw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN MOVIES 4 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10286.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BOX OFFICE 1 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FjuUGmeW0qxJq8sUH8n34aiVY3Wzq9Ue01K%2FQVkBEwWPRxJxMhNVdBzFOvPuB1HzcEb5X5z4L2Xg%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BOX OFFICE 1 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10254.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BOX OFFICE 2 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FeHmBvrEk0uNZ%2FHlGVHhrm9OnLKT93Av4CFv0swJc9lCfDb1SM%2BCq4cLFwLXk1rc0bEF358W9qfw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BOX OFFICE 2 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10255.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN FOX MOVIES [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Blo7lTT7DgBolYcbuDCP5so%2BjXLUuvHXv77oYhkDoJHZQPkGCx8Mmj3tpI8cDD9tRoTJpyzXMkog%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN FOX MOVIES [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10228.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN FOX MOVIES ACTION [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19Yw1mQEMHSHPA%2Fsi%2B%2F1NTFLg1WrMY3m5N9pvL%2FdwvRyBbLBW%2FMLIee" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN FOX MOVIES ACTION [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10238.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN|  BEIN CINEMA [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18qS0kN2tWoJCBpSx89mwnh3xUpnBzeFWvEL0xIowWWlN22B%2BUg6whX" group-title="AR | BEIN ENTERTAINMENT",BEIN|  BEIN CINEMA [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10230.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR MOVIES [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FXnt5uTA%2Fbl%2BkkzFYj1%2BvGU8OvLpsJ2KJQ60kDXANg20FYemeUNJsn" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR MOVIES [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10274.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR FILMS [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BKCVK%2Fn2jf33CtBJAQPJHKFyStZntf7qMiwoOQLxIUUB6N6DA7%2BHJk" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR FILMS [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10280.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR FILMS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B7H9HUIubLIe7uDRLAI%2FkdpNoUMTYgovC16CuqDizS3gIhWBE3fpM7" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR FILMS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10276.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| STAR MOVIES [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BN7xdqBuynyN6GgoMLZJ9Lyefb5nAaiJ1T%2B0jxHitox9LKxsiNU4V7" group-title="AR | BEIN ENTERTAINMENT",BEIN| STAR MOVIES [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10282.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 1 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BUm3iHxZkmysi%2BYmAF3HP7K5ATgOgBtqPA9dFCvkSZRqUpRUlFh%2Bpz" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 1 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10271.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19uVJ7trorYQnCXcHe%2BUMzCueHYIBw1jF4FpChkd7Y2ovQ%2F5AEa6lW9" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10270.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 3 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18mUPHZbwDnHElVvDIYCX52SfoG3QoG1DnMGYvTUgUsnYGzqQMlsPGa" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 3 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10269.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 4 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18hIlneRDLPUtgEnjAxHS02ANjDUyhiJKCaDkvNiUju3oj6Pj3XYI65" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 4 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10268.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 5 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18WnbGhqhq3El52DLQAhtsKUOr1srbKZqlnKrMdRnFuX7qT0fwgfekv" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 5 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10267.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 6 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19qCUv3bQZIMrecV7R0SuN6aDkhhSoe2uCs%2FpmYA%2F8BTfhtOlrHPmac" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 6 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10266.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 7 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BUNTLxCaQSDi2I%2FikxhdKAKrHIbfRTsJNlEvrPECdYiw9Frio4I5rH" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 7 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10265.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 8 MOVIES" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19%2FKH96DUNqoIO%2FLgdvJlPkm7LwnOX8fQDP16gaRiXszxeCaYwrxQ8Z" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 8 MOVIES
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10264.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2023 1" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F8mzC5chTGnuGFUO1G%2BTxg2zT8Gllz7WUBGbFZfNCLWZ4FT9IewB1R" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2023 1
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10263.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2023 2" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1973YT%2BY4zvtSJXWZPVqNbU73YPRmib9FlcpUfCr4A7NZShElSV0iX2" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2023 2
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10262.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2023 3" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BQ9TQuM0NxW9qtR0Cvg%2Bzz7c3oVU1s%2Fo9fpCGLUD9v4ft5Awvv4EuJ" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2023 3
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10261.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2023 4" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2B9efokHxAD3P%2FUVpaciA%2BA0RQDWMvXgOuozoK3FfTqvUJYdgaNJHoX" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2023 4
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10260.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN DRAMA [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FbIQjDYLGpks%2FXHF7bfj3bvmg8%2Fr4CGdygp0KubEpO%2Ff7zd1F2T%2BTL2I8XNNS4jGJOQil91htP6g%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN DRAMA [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10250.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN SERIES 1 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19WwxlTzmaz9FMJV5Zh2JfBJ6tgt8IcQjyvrINNkKmNElj4nTKzS09JkynB%2F%2FVchP%2F9bFPjQlwDvA%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN SERIES 1 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10236.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN SERIES 1 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19%2BZHv6X0ZqdbQr1Jzr7vm0I5nF2%2BToR0hSvUkK9yLScwEPFfzuRfGxh95aeDmgcB9rQ5JNga4uCw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN SERIES 1 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10285.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN SERIES 2 [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FjSUIQEM7A9kAXvMgaaGZswbVz9%2FY5a8a1wRWsVdbEsrrlmDf%2F0GXIGgCnkd1oV%2FFOLV%2BfU9Vjug%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN SERIES 2 [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10237.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN SERIES 2 [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FlgMD9doJNWb%2B%2BiBVAtjmoD8%2FAt03cgGC6xTnd9tLD4QwdwNOARdCpP33r5R2V6lv%2BCDblEcZtwA%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN SERIES 2 [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10284.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN FOX LIFE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19rsEw0llDqTPMOdp6779tuFHEobNUGCN73xVIt486nTKc8rWbh3qlv" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN FOX LIFE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10243.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR LIFE [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18eR78jKpoLXi1GESvpU9q9WhVaXEn%2FpFSwvc1uiEBh%2BEUm8LkLGJOD" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR LIFE [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10275.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR SERIES [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FDohbBZsV7by1JTmWXxwb9Vto2b2Tg4%2BaTlXluuPiyPQclnt0afYzQ" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR SERIES [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10273.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN STAR SERIRES [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19hpjzVlXt%2Fsq0ymKfVXo2FjrRm2jYq1jJRplnKFw9JbQrZhh5sJWnl" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN STAR SERIRES [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10279.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN ACTION [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19BQkMFdh4dcLO0e1PaOBXLRABe8q59KVjGr9k4P85ngjDl2DoRrN5b" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN ACTION [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10281.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN DRAMA [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BmUNE5GgyPwRla%2FfiSr1DsuGg89mrv58zpVuq6WKr%2FaWKnqycoq4zb" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN DRAMA [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10283.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BBC EARTH [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FHx2XanrMqWwpRds3Xjjf5g7GRGE90TRldQmxopnyGkfh6F8fEOSl2" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BBC EARTH [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10253.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN GOURMET [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2Fw%2BzazBd2atA5msvqVdiXtLfeAWSQC6JehghK%2B9ZG1gkrHa9Ix%2BRa9nyz%2BpoUQH1hLRCEi7KTaEQ%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN GOURMET [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10239.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN FATAFEAT [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BTLfxr3X0i8e0MfUQNxYSf0tJsIywTuwLlvRs6xbFirCLVWpn%2BhbFiLA98Oco6ME7EVJX1zEtYnw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN FATAFEAT [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10241.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN FATAFEAT [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2By8AA8vhKxruE0VjQAEBlCJuaCuSloptvlE9G7JHN1CFN65xvegENxktGhJ0yH%2BxBiAyummD0Qxg%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN FATAFEAT [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10229.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OUTDOOR [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18hWombXpk%2F7A2rv1mqTJFf1yuOq%2BXt%2FPLPIvzq%2Bv37JZTzRSYXen7P" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OUTDOOR [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10251.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN FOOD NETWORK [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19%2Bn5cQPxvFfd7V5CXG0uoZEm59tUfui4cfR4%2BWYNewBKhqlhauA4Ey" group-title="AR | BEIN ENTERTAINMENT",AR| BEIN FOOD NETWORK [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10256.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BOOBMRANG [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18qMWcffgvclsAhtYfDR%2FjKm435U%2FKEuORtUJDCGQadTFfPLwl6db%2BU" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BOOBMRANG [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10248.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN DREAMWORKS [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FIyst3rL4RLmGhkG5GyFMjqyMe2ypH%2FPppXHHZpFdy4NLb9VdM14Bg" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN DREAMWORKS [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10249.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BARAEM 2 [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BivT51wm%2BQ6cPazPONkIkjz8ab38lB0SGp0cwo9DInfsCSgPEqJg6Q" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BARAEM 2 [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10252.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BARAEM [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FPjJMXzqITp7rkOCG8KMkBPT40SDnKtsAq3ehR4GOKTqsH0xTohSoq" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BARAEM [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10240.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN JEEM [1080p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX18Er%2BVR4TkKT0LBf4yB%2BW4JfxMuqSf9epkqguKMcodf%2FDEkU9sWhC%2BX6hAF3la5DFf%2F%2BsX2Qo74uw%3D%3D" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN JEEM [1080p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10242.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN|  BEIN BE JUNIOR" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BN8SxEcnzl4WirOP5f%2B%2FipaE2g4C4upeQLPfdcgsXnu7fHwYJZ6aYf" group-title="AR | BEIN ENTERTAINMENT",BEIN|  BEIN BE JUNIOR
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10231.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN CARTOONITO [720p]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2F%2FVJjUIXlEeShX82HpU0tVMGHEmGwUZaOpshdDngqeN%2BMKWaadxQYt" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN CARTOONITO [720p]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10272.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN JEEM [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19ABVjKbL6vx%2Fl03VYeSOphYDwdpfQiStpzmF2wnPQOZVf7OL7lQKWT" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN JEEM [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10277.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BARAEAM [H265]" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2BQpei1BvtX3yInLdP0etQOC%2BAM%2B89FOwHWZY4czjHJHS5tokBsImAy" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN BARAEAM [H265]
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10278.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 1 KIDS" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX19OL4YHmbMsiI9OKmBSz6xUpxP2bPD%2BdwlUSn1EV%2BL8%2Fuh7RB3ZIsFs" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 1 KIDS
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10259.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 2 KIDS" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX1%2FqwlzI2E16pDZcKznmnzHs5WO%2Bd3zC7dhwD8U2Viq5AClfXwxc2%2BLq" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 2 KIDS
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10258.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN OD 3 KIDS" tvg-logo="https://francoisa.win/channel-logo.php?k=U2FsdGVkX195HSjNJ1sFXG6woWIhPIpcsqXoPi4JiSWZO%2F0NyKKTzeZV1IUTl47Q" group-title="AR | BEIN ENTERTAINMENT",BEIN| BEIN OD 3 KIDS
+http://freeiptv.ottc.xyz:80/live/311511653531/060457310797/10257.ts
