@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "name": "جميع الافلام",
+      "url": "https://ak.sv/movies?"
+    },
+    {
       "name": "افلام عربى",
       "url": "https://ak.sv/movies?section=29"
     },
