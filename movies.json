@@ -6,15 +6,15 @@
     },
     {
       "name": "افلام اجنبي",
-      "url": "https://ak.sv/movies?section=30"
+      "url": "https://akwam.ss/movies?section=30&category=0&rating=0&year=0&language=0&formats=0&quality=0"
     },
     {
       "name": "افلام هندى",
-      "url": "https://ak.sv/movies?section=31"
+      "url": "https://akwam.ss/movies?section=31&category=0&rating=0&year=0&language=0&formats=0&quality=0"
     },
     {
       "name": "افلام تركى",
-      "url": "https://ak.sv/movies?section=32"
+      "url": "https://akwam.ss/movies?section=32&category=0&rating=0&year=0&language=0&formats=0&quality=0"
     },
     {
       "name": "افلام أنمي",
@@ -22,7 +22,7 @@
     },
     {
       "name": "افلام اسيوية",
-      "url": "https://ak.sv/movies?section=33"
+      "url": "https://akwam.ss/movies?section=33&category=0&rating=0&year=0&language=0&formats=0&quality=0"
     }
   ]
 }
